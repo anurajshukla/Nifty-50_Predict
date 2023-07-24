@@ -1,1 +1,1 @@
-# Nifty-50_Predict
+Stock price prediction created using Streamlit.
