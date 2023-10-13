@@ -37,7 +37,7 @@ def download_data(op, start_date, end_date):
     df = yf.download(op, start=start_date, end=end_date, progress=False)
     return df
 
-
+# saxx suxxx 
 
 option = st.sidebar.text_input('Enter a Stock Symbol', value='SPY')
 option = option.upper()
